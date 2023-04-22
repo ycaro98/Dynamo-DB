@@ -1,5 +1,5 @@
-# dio-live-dynamodb
-Repositório para o live coding do Amazon DynamoDB
+# BOOTCAMP-JAVA-DEVELOPER-PAN E DIO
+Repositório para o desafio de projeto do Amazon DynamoDB
 
 ### Serviço utilizado
   - Amazon DynamoDB
